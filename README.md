@@ -1,0 +1,2 @@
+# kali
+use terminal
